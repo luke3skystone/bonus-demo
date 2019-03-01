@@ -1,2 +1,2 @@
-[![Build Status](https://travis-ci.org/luke3skystone/bonus-demo.svg?branch=master)](https://travis-ci.org/luke3skystone/bonus-demo)
+[![Build Status](https://travis-ci.org/luke3skystone/bonus-demo.svg?branch=master)](https://travis-ci.org/luke3skystone/bonus-demo)[![codecov](https://codecov.io/gh/luke3skystone/bonus-demo/branch/master/graph/badge.svg)](https://codecov.io/gh/luke3skystone/bonus-demo)
 #create bonus service for sportmaster
